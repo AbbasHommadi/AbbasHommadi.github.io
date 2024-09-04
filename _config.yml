@@ -21,7 +21,7 @@ repository               : "abbashommadi/abbashommadi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "abbas.jpg"
   name             : "Abbas Hommadi"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer Assistant & Senior Programmer"
@@ -34,10 +34,10 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=0wD2jJgAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0008-1522-8522"
+  orcid            : #"https://orcid.org/0009-0008-1522-8522"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Abbas-Hommadi-2"
+  researchgate     : #"https://www.researchgate.net/profile/Abbas-Hommadi-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
