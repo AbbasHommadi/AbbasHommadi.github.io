@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Abbas Hommadi Website"
+title                    : "Abbas's Homepage"
 title_separator          : "-"
 name                     : &name "Abbas Hommadi"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Lecturer Assistant & Senior Programmer"
   location         : "Hilla, Babylon, Iraq"
-  employer         : "University of Babylon"
+  employer         : # "University of Babylon"
   uri              : "https://it.uobabylon.edu.iq/staff_profile.aspx?staff=1000018"
   email            : "abbas.hommadi@gmail.com" 
 
