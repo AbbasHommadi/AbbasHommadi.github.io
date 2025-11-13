@@ -15,8 +15,6 @@ Hi, I am Abbas Hommadi, a lecturer assistant, senior programmer, and full time s
 Research Interest
 ======
 
-- Web Cybersecurity
-- Social Computing
 - Natural Language Processing
 - Deep Learning
 - Machine Learning
