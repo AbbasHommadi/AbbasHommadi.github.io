@@ -4,15 +4,15 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## University of Babylon, Iraq [2019 - 2024]
+## University of Babylon, Iraq [2019 - Present]
 
 ### Lecturer Assistant
 
 As a lecturer assistant, I led lab sessions, presented coding sessions, assigned and graded coursework, and evaluated student projects. I have instructed the following labs:
-
 - **Programming Fundamentals I and II** (C++)
 - **Objects Oriented Programming** (Java)
-- **Database Design** (SQL)
+- **Data Structures & Algorithms** (Java)
+- **Database Design** (MSSQL)
 - **Web Development** (ASP.NET & Django)
 
 ## Utah State University, USA [2016 - 2018]
