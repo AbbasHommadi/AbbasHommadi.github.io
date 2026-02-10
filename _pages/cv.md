@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**To download full CV in pdf format, please [click here](../files/Abbas-Hommadi-CV.pdf)**
+**To download full CV in pdf format, please [click here](../files/cv.pdf)**
 
 Education
 ======
