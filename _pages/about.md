@@ -23,5 +23,7 @@ I am always looking for related collaboration. If you are interested to chat wit
 
 News [<small>Last updated Aug 2026</small>]
 ======
-
+- **[July 25, 2026]**Excited to share our new research on Arabic Fake News Detection, introducing a hybrid deep learning model combining Temporal CNN, BiLSTM, and Attention mechanisms to improve classification performance. [Read the paper](https://www.sid.ir/paper/2010497/en).
+- **[June 26, 2026]**I am pleased to announce our new publication, "Weighted Average Ensemble Learning Model for Improving Brain Tumor Classification," in the Baghdad Science Journal. This work explores ensemble learning techniques to improve the accuracy and reliability of brain tumor classification. [Read the paper](https://bsj.uobaghdad.edu.iq/home/vol23/iss6/27/).
+- **[October 21, 2025]**Our paper, "Toward Scalable and Sustainable Detection Systems: A Behavioural Taxonomy and Utility-Based Framework for Security Detection in IoT and IIoT," has been published in the IoT journal (MDPI). [Read the paper](https://www.mdpi.com/2624-831X/6/4/62).
 - **[August 14, 2024]** received a letter of thanks and appreciation from the Minister of Higher Education in Iraq in recognition of our efforts in the successful execution of the **National Assessment of Law Schools** for undergraduate students.
