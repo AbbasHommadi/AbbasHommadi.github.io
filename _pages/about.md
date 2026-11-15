@@ -10,7 +10,7 @@ redirect_from:
 Abbas Hommadi عباس فاضل حمادي
 ======
 
-Hi, I am Abbas Hommadi, a Lecturer Assistant, and a Software Developer. I currently work at [University of Babylon, Iraq](https://uobabylon.edu.iq/) where my duties falls into the following (software developing, teaching undergraduate classes, and conducting research). I hold an M.Sc. in Computer Science  from [Utah State University, USA](https://www.usu.edu/), where I completed my thesis under the supervision of [Dr. Vicki Allan](https://www.usu.edu/cs/directory/faculty/allan-vicki) in 2018. Additionally, I earned my BSc in Computer Science  from [University of Babylon, Iraq](https://uobabylon.edu.iq/) with [first-class honors](https://alumni.uobabylon.edu.iq/deps.aspx?cid=5&cdid=1&year=2010) where ranked  [first](https://uobabylon.edu.iq/) among graduates of the College of Science in 2010.
+Hi, I am Abbas Hommadi, a Lecturer Assistant, and a Software Developer. I currently work at [University of Babylon, Iraq](https://uobabylon.edu.iq/) where my duties falls into the following (software developing, teaching undergraduate classes, and conducting research). I recieved my M.Sc. in Computer Science  from [Utah State University, USA](https://www.usu.edu/) in 2018, where I completed my thesis under the supervision of [Dr. Vicki Allan](https://www.usu.edu/cs/directory/faculty/allan-vicki). I earned my B.Sc. in Computer Science  from [University of Babylon, Iraq](https://uobabylon.edu.iq/) in 2010 with [first-class honors](https://alumni.uobabylon.edu.iq/deps.aspx?cid=5&cdid=1&year=2010) where ranked  [first](https://uobabylon.edu.iq/) among graduates of the College of Science.
 
 Research Interest
 ======
